@@ -1,7 +1,8 @@
 {
   "module_id": "10zing:chromacrop",
   "visibility": "public",
-  "url": "",
+  "url": "https://github.com/10zingpd/chromacrop",
+  "markdown_link": "README.md",
   "description": "Camera module that dynamically crops frames to a color-detected border region. Configure any target color via hex code.",
   "models": [
     {
