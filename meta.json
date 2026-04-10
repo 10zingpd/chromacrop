@@ -10,5 +10,5 @@
       "model": "10zing:chromacrop:detection-crop"
     }
   ],
-  "entrypoint": "main.py"
+  "entrypoint": "run.sh"
 }
