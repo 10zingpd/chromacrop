@@ -1,0 +1,5 @@
+{
+  "hue_tolerance_pct": 0.05,
+  "detect_color": "#dcfe79",
+  "segment_size_px": 100
+}

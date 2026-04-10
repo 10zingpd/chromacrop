@@ -1,0 +1,13 @@
+{
+  "module_id": "10zing:chromacrop",
+  "visibility": "public",
+  "url": "",
+  "description": "Camera module that dynamically crops frames to a color-detected border region. Configure any target color via hex code.",
+  "models": [
+    {
+      "api": "rdk:component:camera",
+      "model": "10zing:chromacrop:detection-crop"
+    }
+  ],
+  "entrypoint": "main.py"
+}
